@@ -16,6 +16,16 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bafioo&bg_color=232946&color=a5b4fc&line=6c7fd8&point=ffffff&area=true&hide_border=true"/>
 
+<br><br>
+
+<!-- GitHub activity stats: maintained by public profile-stat services -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bafioo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=232946&title_color=a5b4fc&text_color=ffffff&icon_color=6c7fd8" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bafioo&hide_border=true&background=232946&stroke=6c7fd8&ring=a5b4fc&fire=ffffff&currStreakLabel=a5b4fc&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3c7" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bafioo&theme=tokyonight" />
+
 </div>
 
 ---
